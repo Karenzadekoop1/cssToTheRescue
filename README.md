@@ -50,3 +50,4 @@ For next week i want to start by building the full picture. Like the structure a
 
 
 
+
