@@ -85,7 +85,7 @@ input[type="range"] {
 input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
-    width: 8em;
+    width: 6em;
     aspect-ratio: 1/1;
     clip-path: path('M 32 64 C 0 32 0 32 0 16 C 0 8 8 0 16 0 C 24 0 32 8 32 16 C 32 8 40 0 48 0 C 56 0 64 8 64 16 C 64 32 64 32 32 64');
     background-color: var(--color-slider);
