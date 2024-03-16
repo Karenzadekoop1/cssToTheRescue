@@ -77,13 +77,17 @@ I started with some hearts and just some simple things.
 
 But then i was thinking how i can make more shapes and costumize my controll panel even more. So i stared experementing
 
-<!-- toggle button clip path? -->
+I have a toggle button and thought it would be funny if i added a clip path to the toggle
+
+![Animations](readme-images/toggle%20clip%20path%20img.png)
+![Animations](readme-images/toggleclippath.png)
 
 ### States (animations)
 
 
 
 ### Mid way design
+![Animations](readme-images/screenrough.png)
 ![Animations](readme-images/screenfullimg.png)
 
 ### Plan for next week
