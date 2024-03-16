@@ -48,6 +48,15 @@ For next week i want to start by building the full picture. Like the structure a
 
 ## Week 3 
 
+Like i said, this week i needed to focus on the design of the full screen and i wanted to play around with some css elements.
+
+### Controlls
+
+My sketch and first draft started with 3 buttons, 2 sliders, a toggle and i knew i wanted to do something with radiobuttons so i started with a code and rough design of these elements 
+![Animations](readme-images/)
+
+
+
 
 
 
