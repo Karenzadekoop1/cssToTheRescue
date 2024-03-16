@@ -25,6 +25,9 @@ As you can kind off see in these sketches i want to make a controll pannel where
 ### Plan for next week.
 For next week i want to focus on the smaller thing. Experement with the smaller parts for that i can put them all toghther at the end.
 
+### Struggles this week
+I mostly struggled with really coming up with an idea. i thought too big and learned that i just need to start with smaller things and work my way up to something bigger.
+
 ## Week 2
 
 ### Breathing Animations
@@ -46,15 +49,54 @@ And the circle just needed a simple animation.
 ### Plan for next week
 For next week i want to start by building the full picture. Like the structure and design elements of the full screen.
 
+### Struggles this week
+This week i mostly struggled with how i wanted the last animation to be. I want to design a ball that follows a path but i just couldnt figure out how that was posible yet. 
+
 ## Week 3 
 
-Like i said, this week i needed to focus on the design of the full screen and i wanted to play around with some css elements.
+### Controls
 
-### Controlls
+My sketch and first draft started with 3 buttons, 2 sliders, a toggle and i knew i wanted to do something with radiobuttons so i started with a code and rough design of these elements.
 
-My sketch and first draft started with 3 buttons, 2 sliders, a toggle and i knew i wanted to do something with radiobuttons so i started with a code and rough design of these elements 
-![Animations](readme-images/)
+![Animations](readme-images/htmlheader.png)
+![Animations](readme-images/roughdesignheader.png)
 
+### 3D effect
+
+I played around with the 3D effect in the buttons. This was a fairly easy and a cool way to add more depth in my project. 
+
+![Animations](readme-images/3donbutton.png)
+![Animations](readme-images/3donbuttonimg.png)
+
+### Clip path
+
+I loved experementing with clippath and new shapes i could make and try out. 
+I started with some hearts and just some simple things.
+![Animations](readme-images/heartclipcode.png)
+![Animations](readme-images/clippathimg.png)
+
+But then i was thinking how i can make more shapes and costumize my controll panel even more. So i stared experementing
+
+<!-- toggle button clip path? -->
+
+### States (animations)
+
+
+
+### Mid way design
+![Animations](readme-images/screenrough.png)
+![Animations](readme-images/screenfullimg.png)
+
+### Plan for next week
+I plan to finish the design of the page and some extra elements.
+I aslo want to fix the costumproperties
+Make 1 one breathwork animation
+And ofcourse making everthing work together 
+
+
+### Struggles this week
+I an still struggeling with the design of the radiobuttons
+But my main struggles right now is responsiveness. 
 
 
 
