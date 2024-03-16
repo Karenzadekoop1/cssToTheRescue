@@ -84,7 +84,6 @@ But then i was thinking how i can make more shapes and costumize my controll pan
 
 
 ### Mid way design
-![Animations](readme-images/screenrough.png)
 ![Animations](readme-images/screenfullimg.png)
 
 ### Plan for next week
